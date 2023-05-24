@@ -1,0 +1,19 @@
+total 5128
+drwxr-xr-x 1 HP 197121       0 May 23 17:35 ./
+drwxr-xr-x 1 HP 197121       0 May 23 17:35 ../
+-rw-r--r-- 1 HP 197121   18765 Apr 19 06:02 LICENSE.txt
+-rw-r--r-- 1 HP 197121  242076 Apr 19 06:02 ReleaseNotes.html
+drwxr-xr-x 1 HP 197121       0 May 22 09:22 bin/
+drwxr-xr-x 1 HP 197121       0 May 22 09:22 cmd/
+drwxr-xr-x 1 HP 197121       0 May 22 09:22 dev/
+drwxr-xr-x 1 HP 197121       0 May 22 09:23 etc/
+-rwxr-xr-x 1 HP 197121  137264 Apr 19 05:40 git-bash.exe*
+-rwxr-xr-x 1 HP 197121  136752 Apr 19 05:40 git-cmd.exe*
+drwxr-xr-x 1 HP 197121       0 May 22 09:22 mingw64/
+-rw-r--r-- 1 HP 197121       0 May 23 17:36 output.txt
+dr-xr-xr-x 9 HP 197121       0 May 23 18:11 proc/
+drwxr-xr-x 1 HP 197121       0 May 23 18:00 tmp/
+-rw-r--r-- 1 HP 197121 1252204 May 22 09:22 unins001.dat
+-rwxr-xr-x 1 HP 197121 3215248 May 22 09:15 unins001.exe*
+-rw-r--r-- 1 HP 197121   24183 May 22 09:22 unins001.msg
+drwxr-xr-x 1 HP 197121       0 May 22 09:22 usr/
