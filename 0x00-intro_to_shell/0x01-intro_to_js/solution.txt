@@ -1,0 +1,42 @@
+ANSWER TO QUESTION 1.
+The 'let' keyword is used to declare variables that are block-scoped,
+meaning they exist only within the block of code where they are defined(e.g
+within a function or a loop).Variables declared with 'let' can be reassigned a new value.
+
+The 'const' keyword is used to declare variables that are also block-scoped
+but cannot be reassigned after they are defined. However, its important to note that 
+the 'const' declaration does not make the variable itself immutable; it only prevents reassignment of the variable.
+
+The main difference between 'let' and 'const' is that variables declared with 'const' are read-only and cannot be reassigned.
+Whereas variables declared with 'let' can be reassigned.
+
+ANSWER TO QUESTION 2.
+Once a variable is defined, we can use its name to refer to its value and perform operations on it.
+For example, if we have a variable named 'myVariable' we can use it in expressions, assignments, or pass it as arguments to functions.
+
+ANSWER TO QUESTION 3.
+In Javascript, we can declare a string by enclosing the text within single quotes('~') or double quotes("~").
+For example: * Using single quotes: 'let spc = 'Hello World!';'
+* Using double quotes: 'let spc = "Hello World!";' 
+
+ANSWER TO QUESTION 4.
+Yes we can create strings using either single quotes or double quotes. Javascript allows us to choose either of them to define strings.
+For example, both of the following declarations are valid:
+Single quotes: 'let spc ='Hello World!';'
+Double quotes: 'let spc ="Hello World!";'
+Using single quotes or double quotes is a matter of personal preference or following a consisted code style within a project.
+
+ANSWER TO QUESTION 5.
+'"9"' with quotes is a numeric literal, representing the number '9'.
+It is a numeric value without the quotes.
+The main difference is the data type: '"9"' is a string, whislt '9' is a number.
+They have different behaviours when used in operations or calculations.
+
+ANSWER TO QUESTION 6.
+* Declarations: It refers to the act of creating a variable in JavaScript using a specific keyword('var', 'let', or 'const')followed by
+variable name.
+* Redeclaration: Redeclaration occurs when we attempt to declare a variable with the same name again within the same scope. In JavaScript,
+variables declared with 'var' can be redeclared within the same scope,which may lead to unintended behaviour or bugs.On the 
+other hand, variables declared with 'let' or 'const' cannot be redeclared within the same scope.
+Assignments: It refers to giving a variable a value for the first time or changing the value of an
+existing variable. We use the assignment operator('=') to assign a value.
