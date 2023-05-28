@@ -1,0 +1,27 @@
+function  generateStory() {
+    // Collect user input
+    let name = prompt("Eduah-Lexis Nathan");
+    let gender = promt("Male");
+    let age = parseInt(prompt("21"));
+    let storyName = prompt("MY EPIC JOURNEY");
+    
+    
+    //Generate the story
+    let story = 'My name is ${name}. I am ${gender}. I am ${age}. The title of my story ${MY EPIC JOURNEY}.';
+    story += "Once upon a time , in a faraway land, ";
+    story += "I embarked on an incredible adventure filled with excitement and mystery. ";
+    story += "With every step I took, I discovered new wonders and faced daunting challenges. ";
+    story += "Through perseverance and courage , I overcame obstacles and grew as a person. ";
+    story += "Along the way, I met fascinating characters who became lifelong friends. ";
+    story += "Together, we journeyed through breathtaking landscapes and experienced unforgetable moments. ";
+    story += "As my story unfolds, I find myself constantly amazed by the power of dreams and the strength within. ";
+    story += "With each chapter, I realize that life is a grand tapestry of possibilities, waiting to be explored. ";
+    story += "And so, I embrace the unknown and continue to write the story of my life. ";
+
+
+    // Display the story to the user
+    alert(story);
+}
+
+   // Call the function to generate the story
+   generateStory();
